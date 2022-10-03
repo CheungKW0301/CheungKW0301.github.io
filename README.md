@@ -1,7 +1,7 @@
 # Personal-website
 
 Responsive personal website<br/>
-[Cheungkw0301](https://cheungkw0301.github.io/)
+[https://cheungkw0301.github.io](https://cheungkw0301.github.io/)
 
 ## Language and library
 
